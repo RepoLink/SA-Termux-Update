@@ -45,9 +45,6 @@ credentials.json file ကို [Google Console](https://console.cloud.google.co
 ```
 python3 gen_sa_accounts.py --quick-setup -1
 ```
-python generate_drive_token.py
-```
-```
 cd accounts
 ```
 ```
