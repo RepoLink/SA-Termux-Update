@@ -32,24 +32,18 @@ mkdir /sdcard/MyTermux/ -p
 cd /sdcard/MyTermux
 ```
 ```
-git clone https://github.com/phoethar1/service-accounts
+git clone <<< repolink >>>
 ```
 ```
 cd /sdcard/MyTermux/service-accounts
 ```
 ```
-pip3 install -r requirements.txt
+pip3 install -U -r requirements.txt
 ```
 credentials.json file ကို [Google Console](https://console.cloud.google.com/?pli=1)မှာပြုလုပ်ပါ
 
 ```
 python3 gen_sa_accounts.py --quick-setup -1
-```
-```
-python3 gen_sa_accounts.py  --download-keys Project ID
-```
-[`Project ID​`](#) နေရာမှာ မိမိ Project IDထည့်
-
 ```
 python generate_drive_token.py
 ```
