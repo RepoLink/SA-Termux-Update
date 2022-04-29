@@ -1,9 +1,9 @@
 #  android phone အသုံးပြုပြီး service accounts လုပ်နည်း
 ## Guide:
-- YouTube Link: [Create Service Accounts Tutorial](https://youtu.be/gZXSMRFm6cY)
+- YouTube Link: [Create Service Accounts Tutorial](https://youtu.be/qvPuFFrBD2c)
 ------
 - [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
-[![](https://telegra.ph/file/f302ba135e2cc33b23194.gif)version 0.117](https://drive.google.com/uc?export=download&id=1jnx0F3onc_vzaIMaUEqRh5zJPaAbBrsb)
+[![](https://telegra.ph/file/f302ba135e2cc33b23194.gif)Termux Download](https://drive.google.com/uc?export=download&id=1jnx0F3onc_vzaIMaUEqRh5zJPaAbBrsb)
 
 install လုပ်ပီးရင် Termux ကိုဖွင့်လိုက်ပါ
 ​အောက်က CMD ​တွေ ရိုက်ထည့်ပါ
