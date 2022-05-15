@@ -35,7 +35,7 @@ cd /sdcard/MyTermux
 git clone <<< repolink >>>
 ```
 ```
-cd /sdcard/MyTermux/service-accounts
+cd /sdcard/MyTermux/ဖိုင်နာမည်ရိုက်ရန်
 ```
 <<< ဒီအဆင့်ထိ ပထမတစ်ခေါက် Termux စ Run တဲ့အချိန်လုပ်ပေးရမှာ
 နောက်ထပ် SA တွေ လုပ်တဲ့အချိန်ဆို မလိုတော့ပါ >>>
