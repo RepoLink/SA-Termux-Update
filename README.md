@@ -2,7 +2,7 @@
 ## Guide:
 - YouTube Link: [Create Service Accounts Tutorial](https://youtu.be/qvPuFFrBD2c)
 ------
-- [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ [Termux Download](https://drive.google.com/file/d/1jnx0F3onc_vzaIMaUEqRh5zJPaAbBrsb/view?usp=drive_link)
+- [x] အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။ [<<< Termux Download >>>](https://drive.google.com/file/d/1jnx0F3onc_vzaIMaUEqRh5zJPaAbBrsb/view?usp=drive_link)
 
 install လုပ်ပီးရင် Termux ကိုဖွင့်လိုက်ပါ
 ​အောက်က CMD ​တွေ ရိုက်ထည့်ပါ
