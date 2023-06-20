@@ -22,7 +22,7 @@ pkg install git
 pkg install python
 ```
 ```
-pip install --upgrade pip
+pkg install python-pip
 ```
 ```
 mkdir /sdcard/MyTermux/ -p
